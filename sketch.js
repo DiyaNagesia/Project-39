@@ -69,7 +69,7 @@ function draw() {
   createFood();
   
   createObstacles();
-  
+   
   sizeIncrease();
   
   }
