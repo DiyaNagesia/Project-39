@@ -19,7 +19,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(displayWidth-670, displayHeight-350);
+  createCanvas(displayWidth-470, displayHeight-250);
   
   score = 0;
   
